@@ -277,11 +277,17 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻Author
 
-**Narendra Reddy**
+Narendra Reddy
 
-Data Engineering | SQL | Databricks | Python | Power BI
+GitHub: @Narendra-503
 
-This project demonstrates my practical learning and implementation of modern data engineering concepts through an end-to-end airline flight operations analytics solution.
+Project Repository:
+
+Airline Flight Operations Analytics
+
+⭐ If you find this project useful, consider giving the repository a star!
+
+Thank you for exploring my Airline Flight Operations Analytics project!
 
