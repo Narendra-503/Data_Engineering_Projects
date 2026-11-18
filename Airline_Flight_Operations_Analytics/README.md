@@ -1,4 +1,4 @@
-<img width="1672" height="941" alt="Silver Layer_ Four Cleaning" src="https://github.com/user-attachments/assets/c311d31e-62f4-4c1f-8ebc-e86d66f8cbc4" /><img width="1672" height="941" alt="End-to-End Data Flow Infographic" src="https://github.com/user-attachments/assets/595b08db-5a2d-4d96-a512-8233c6e1e207" /># ✈️ Airline Flight Operations Analytics
+# ✈️ Airline Flight Operations Analytics
 
 An end-to-end Data Engineering project built using **Databricks, Lakeflow Spark Declarative Pipelines, SQL, Delta Lake, and Power BI**. This project transforms raw airline flight data into clean, structured, business-ready datasets using Medallion Architecture and provides interactive dashboards for analyzing airline performance, flight operations, routes, delays, and data quality.
 
@@ -85,7 +85,7 @@ The project follows the Medallion Architecture, which organizes data into three 
 
 ### End-to-End Data Flow
 
-![Uploading End-to-End Data Flow Infographic.png…]()
+<img width="1672" height="941" alt="End-to-End Data Flow Infographic" src="https://github.com/user-attachments/assets/5768b8e9-22d7-4cda-8a04-d7d7e06a33c5" />
 
 
 ### Silver Layer Data Cleaning
